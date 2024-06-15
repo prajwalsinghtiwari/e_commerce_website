@@ -34,8 +34,14 @@ try {
         <Button colorScheme="teal" onClick={HandleLogin}>
           Login
         </Button>
+
+        <h2>Hint</h2>
+        <h3>"bruce@wayne.com"</h3>
+        <h3>"gotham123"</h3>
+
       </VStack>
     </Box>
+      
   );
 };
 
